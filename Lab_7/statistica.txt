@@ -1,0 +1,44 @@
+nume legatura: l7_6.c
+dimensiune legatura: 6
+drepturi de acces user: RWX
+drepturi de acces grup: RWX
+drepturi de acces altii: RWX
+
+nume fisier: Fisier.txt
+dimensiune: 17
+identificatorul utilizatorului: 1000
+timpul ultimei modificari: Thu Nov 16 02:23:17 2023
+contorul de legaturi: 1
+drepturi de acces user: RW-
+drepturi de acces grup: R--
+drepturi de acces altii: R--
+
+nume fisier: image.bmp
+inaltime: 1920
+lungime: 1280
+dimensiune: 7372938
+identificatorul utilizatorului: 1000
+timpul ultimei modificari: Wed Nov 15 22:36:09 2023
+contorul de legaturi: 1
+drepturi de acces user: RW-
+drepturi de acces grup: R--
+drepturi de acces altii: R--
+
+nume legatura: Exemplu.c
+dimensiune legatura: 9
+drepturi de acces user: RWX
+drepturi de acces grup: RWX
+drepturi de acces altii: RWX
+
+nume director: Folder 1
+identificatorul utilizatorului: 1000
+drepturi de acces user: RWX
+drepturi de acces grup: R-X
+drepturi de acces altii: R-X
+
+nume director: Folder 3
+identificatorul utilizatorului: 1000
+drepturi de acces user: RWX
+drepturi de acces grup: R-X
+drepturi de acces altii: R-X
+
