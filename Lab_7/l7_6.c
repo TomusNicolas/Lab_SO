@@ -138,7 +138,7 @@ void scriereLegatura(int f_out, char *vnume, char *nume)
 
 int main(int argc, char *argv[])
 {
-    if(argc != 2 && strstr(argv[1], ".bmp") != NULL)
+    if(argc != 2)
     {
         printf("Erroare!");
         exit(1);
